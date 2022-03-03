@@ -1,0 +1,6 @@
+[book]
+authors = ["Renakhys"]
+language = "en"
+multilingual = false
+src = "src"
+title = "documentation"
